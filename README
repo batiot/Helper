@@ -1,0 +1,98 @@
+
+sendevent /dev/input/event0 3 57 0
+sendevent /dev/input/event0 3 53 3
+sendevent /dev/input/event0 3 54 4
+sendevent /dev/input/event0 3 48 5
+sendevent /dev/input/event0 3 58 50
+sendevent /dev/input/event0 0 2 0
+sendevent /dev/input/event0 0 0 0
+#136519
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 07f3ce6e
+sendevent /dev/input/event0 3 39 0a318
+sendevent /dev/input/event0 3 35 264
+sendevent /dev/input/event0 3 36 65a
+sendevent /dev/input/event0 3 3a 48
+sendevent /dev/input/event0 3 30 0c
+sendevent /dev/input/event0 3 31 0b
+sendevent /dev/input/event0 0 0
+#144650
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 08749047
+sendevent /dev/input/event0 3 35 263
+sendevent /dev/input/event0 3 36 659
+sendevent /dev/input/event0 3 3a 49
+sendevent /dev/input/event0 3 31 0c
+sendevent /dev/input/event0 0 0
+#rate 122
+#152942
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 08f4a937
+sendevent /dev/input/event0 3 35 262
+sendevent /dev/input/event0 3 36 656
+sendevent /dev/input/event0 0 0  rate 120
+#161088
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 097093ed
+sendevent /dev/input/event0 3 35 25f
+sendevent /dev/input/event0 3 36 643
+sendevent /dev/input/event0 0 0
+# rate 122
+#1691
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 09ead1d8
+sendevent /dev/input/event0 3 35 25d
+sendevent /dev/input/event0 3 36 623
+sendevent /dev/input/event0 0 0
+#  rate 124
+#177576
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 0a6cb83b
+sendevent /dev/input/event0 3 36 5e1
+sendevent /dev/input/event0 3 31 0b
+sendevent /dev/input/event0 0 0
+# rate 117
+#185637
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0  0 5 0ae7afef
+sendevent /dev/input/event0  3 35 25e
+sendevent /dev/input/event0  3 36 59d
+sendevent /dev/input/event0  3 30 0b
+sendevent /dev/input/event0  0 0
+# rate 124
+#194194
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0  0 5 0b695e95
+sendevent /dev/input/event0  3 35 25f
+sendevent /dev/input/event0  3 36 54b
+sendevent /dev/input/event0  3 3a 47
+sendevent /dev/input/event0  0 0
+# rate 116
+#202062
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 0be268ea
+sendevent /dev/input/event0 3 35 261
+sendevent /dev/input/event0 3 36 4fc
+sendevent /dev/input/event0 3 3a 43
+sendevent /dev/input/event0 3 30 0a
+sendevent /dev/input/event0 3 31 09
+sendevent /dev/input/event0 0 0
+# rate 127
+#210490
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 0c624269
+sendevent /dev/input/event0 3 35 264
+sendevent /dev/input/event0 3 36 4ae
+sendevent /dev/input/event0 3 3a 39
+sendevent /dev/input/event0 3 30 08
+sendevent /dev/input/event0 3 31 08
+sendevent /dev/input/event0 0 0
+#  rate 118
+#217839
+sendevent /dev/input/event0 0 4 45d99
+sendevent /dev/input/event0 0 5 0cd304c9
+sendevent /dev/input/event0 3 39 ffffffff
+sendevent /dev/input/event0 0 0
+#  rate 136
+
+
